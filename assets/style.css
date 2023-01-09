@@ -1,0 +1,9 @@
+*{
+    background-color: rgba(189, 189, 216, 0.788);
+    text-align: center;
+    margin-top: 10%;
+}
+
+.car{
+    mix-blend-mode: color-burn;
+}
